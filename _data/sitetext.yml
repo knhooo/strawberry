@@ -22,9 +22,9 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "뜨겁게 타오르다"
-        desc: "칼바람에 손가락이..어쩌구 우리는 그렇게 만났다."
+        desc: "칼바람에 손가락이..어쩌구"
         icon: fas fa-fire-alt #find more at https://fontawesome.com/icons
-      - title: "꼭지를 내려놓다"
+      - title: "씨앗을 내려놓다"
         desc: "따뜻한 열풍에 ..어쩌구 "
         icon: fas fa-seedling
       - title: "새콤하게 다가가다"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "딸기의 탄생"
-    text: "군밤이란 사랑으로써 완성된다."
+    text: "딸란 사랑으로써 완성된다."
     section: portfolio
     closebutton: "닫기"
 
