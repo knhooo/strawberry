@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "https://knhooo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/gunbam" # the subpath of your site, e.g. /blog
+baseurl: "/strawberry" # the subpath of your site, e.g. /blog
 
 title      : Strawberry Company 
 email      : knh000125@gmail.com #this is also the email contact forms will go to
