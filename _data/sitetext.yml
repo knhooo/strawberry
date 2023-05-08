@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "딸기의 탄생"
-    text: "딸란 사랑으로써 완성된다."
+    text: "딸기란 사랑으로써 완성된다."
     section: portfolio
     closebutton: "닫기"
 
